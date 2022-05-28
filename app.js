@@ -6,3 +6,6 @@ WebGLShaderPrecisionFormat
 claro que si mostro
 asdfas
  sale la foto?
+ sdgfsdg
+ generando conflicto
+ 
