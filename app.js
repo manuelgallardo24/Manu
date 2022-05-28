@@ -1,0 +1,6 @@
+dale MediaStreamAudioDestinationNode
+
+asfdgdgss
+getComputedStyle
+WebGLShaderPrecisionFormat
+claro que si mostro
